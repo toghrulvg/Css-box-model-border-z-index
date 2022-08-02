@@ -1,0 +1,65 @@
+#circle1{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    border: 5px solid blue;
+    position: absolute;
+    left: 480px;
+    top: 170px;
+    z-index: -1;
+
+}
+
+#circle2{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    border: 5px solid black;
+    position: absolute;
+    left: 610px;
+    top: 170px;
+    z-index: 1;
+}
+
+#circle3{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    border: 5px solid red;
+    position: absolute;
+    left: 740px;
+    top: 170px;
+    z-index: -1;
+}
+
+#circle4{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    border: 5px solid green;
+    position: absolute;
+    left: 670px;
+    top: 230px;
+    z-index: -1;
+}
+
+#circle5{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    border: 5px solid orange;
+    position: absolute;
+    left: 535px;
+    top: 230px;
+    z-index: -1;
+}

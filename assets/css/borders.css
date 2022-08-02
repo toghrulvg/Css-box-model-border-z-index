@@ -1,0 +1,24 @@
+#corner1{
+    border-radius: 30px 30px 30px 30px;
+    background: red;
+    padding: 20px; 
+    width: 170px;
+    height: 170px; 
+}
+
+#corner2{
+    border-radius: 30px 30px 30px;
+    background: honeydew;
+    padding: 20px; 
+    width: 170px;
+    height: 170px; 
+}
+
+h2{
+    color:brown
+}
+div#genious{
+    position: relative;
+    left: 350px;
+    bottom: 560px;
+}
